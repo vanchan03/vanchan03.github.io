@@ -58,9 +58,9 @@ The calendar would include the option for notifications and would have the abili
 ![_ DH 110 - Sketch](https://github.com/vanchan03/vanchan03.github.io/assets/115326209/aa0b786d-5f7b-47ad-ba22-0cc7c0db1adc)
 
 ## Mockup
-[_    DH 110 - mockup.pdf](https://github.com/vanchan03/vanchan03.github.io/files/12963105/_.DH.110.-.mockup.pdf)
+<img width="689" alt="Screenshot 2023-10-17 at 2 43 40 PM" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/8d9624f1-359e-4d77-af06-24105bcc2a23">
 
 ## Collaborative User Story
-[_   DH 110 Collaborative User Story.pdf](https://github.com/vanchan03/vanchan03.github.io/files/12963353/_.DH.110.Collaborative.User.Story.pdf)
+<img width="679" alt="Screenshot 2023-10-17 at 2 44 27 PM" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/978eabbb-72a8-4987-9268-4db553599b5f">
 
 
