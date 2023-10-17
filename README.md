@@ -1,4 +1,6 @@
-# vanchan03.github.io
+# Digital Humanities Time Management Tool
+
+By Deborah Lee, Miranda Solorio, and Vanessa Chan
 
 ## Introduction
 
