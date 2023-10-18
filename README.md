@@ -56,13 +56,24 @@ The calendar would include the option for notifications and would have the abili
 ## Information Architecture Sketch
 <img width="5323" alt="_ DH 110-IA" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/1056d96c-5ab5-41c3-bfb9-100f1c34d64e">
 
-## Inital Sketch
+## Inital Sketch 
 ![_ DH 110 - Sketch](https://github.com/vanchan03/vanchan03.github.io/assets/115326209/aa0b786d-5f7b-47ad-ba22-0cc7c0db1adc)
 
-## Mockup
+## Mockup Initial Home Page
+<img width="958" alt="Screenshot 2023-10-17 at 11 38 56 PM" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/85cc11cd-41dc-4a3a-bfdb-fde667413314">
+
+## Mockup New Calendar Page
+<img width="956" alt="Screenshot 2023-10-17 at 11 36 38 PM" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/c1e5b4eb-5208-477b-b450-49c9e217afd0">
+
+## Mockup Add Widget
+<img width="958" alt="Screenshot 2023-10-17 at 11 36 55 PM" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/ef7bdc20-8651-4b77-bbd7-5c81988c2100">
+
+## Final Mockup
 <img width="689" alt="Screenshot 2023-10-17 at 2 43 40 PM" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/8d9624f1-359e-4d77-af06-24105bcc2a23">
 
 ## Collaborative User Story
 <img width="679" alt="Screenshot 2023-10-17 at 2 44 27 PM" src="https://github.com/vanchan03/vanchan03.github.io/assets/115326209/978eabbb-72a8-4987-9268-4db553599b5f">
 
+
+# Thank you!
 
